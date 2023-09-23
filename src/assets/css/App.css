@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "good unicorn";
+  src: local("GoodUnicornRegular"), url("../fonts/good-unicorn/Good-Unicorn-Regular.ttf") format("truetype");
+  font-weight: 600;
+}
+
+:root {
+  --body-bg-color: #121212;
+  --body-color: #dddddd;
+  --overlay-color: #474747;
+  --button-bg-color: #fff9e5;
+}
+
+a {
+  text-decoration:none
+}
+
+body {
+  background-color:var(--body-bg-color);
+  color:var(--body-color);
+  font-family: 'Poppins', sans-serif;
+}
+
+.home {
+  background-color:var(--overlay-color);
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-blend-mode:multiply;
+}
+
+.home h1 {
+  font-size:6rem;
+  font-family:"good unicorn";
+}
+
+.home p {
+  font-size:20px;
+  margin-top:-25px;
+  margin-bottom:30px;
+  letter-spacing:2px;
+}
+
+.home a button {
+  padding:6px 20px;
+  font-size:20px;
+  background-color:var(--button-bg-color);
+}
+
+._navbar {
+  height:80px;
+  margin-top:10px;
+}
+
+._navbar a {
+  transition:transform .3s ease-in-out;
+}
+._navbar a:hover {
+  transform:translateY(-5px);
+}
+
+.calendar {
+  margin-top:30px;
+}
+
+.calendar table.table td {
+  height:70px;
+}
+
+.calendar table.table th {
+  height:50px
+}
