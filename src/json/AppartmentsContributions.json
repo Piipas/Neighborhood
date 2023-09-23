@@ -1,157 +1,154 @@
 {
-  "years": {
-    
-    "2021": [
-      {
-        "number": 1,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 2,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": false,
-          "june": false,
-          "july": false,
-          "august": false,
-          "september": false,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 3,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
+  "2021": [
+    {
+      "number": 1,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
       }
-    ], "2022": [
-      {
-        "number": 1,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 2,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": false,
-          "june": false,
-          "july": false,
-          "august": false,
-          "september": false,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 3,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
+    }, {
+      "number": 2,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
       }
-    ], 
-    "2023": [
-      {
-        "number": 1,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 2,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": false,
-          "june": false,
-          "july": false,
-          "august": false,
-          "september": false,
-          "october": null,
-          "november": null,
-          "december": null
-        }
-      }, {
-        "number": 3,
-        "months": {
-          "january": true,
-          "february": true,
-          "mars": true,
-          "april": true,
-          "may": true,
-          "june": true,
-          "july": true,
-          "august": true,
-          "september": true,
-          "october": null,
-          "november": null,
-          "december": null
-        }
+    }, {
+      "number": 3,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
       }
-    ]
-  }
+    }
+  ], "2022": [
+    {
+      "number": 1,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    }, {
+      "number": 2,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    }, {
+      "number": 3,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    }
+  ], 
+  "2023": [
+    {
+      "number": 1,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": null,
+        "november": null,
+        "december": null
+      }
+    }, {
+      "number": 2,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": null,
+        "november": null,
+        "december": null
+      }
+    }, {
+      "number": 3,
+      "months": {
+        "january": true,
+        "february": true,
+        "mars": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": null,
+        "november": null,
+        "december": null
+      }
+    }
+  ]
 }
